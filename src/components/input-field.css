@@ -1,0 +1,20 @@
+.font-offwhite {
+    color: #fff;
+}
+
+.input-label-container {
+    margin: 10px;
+  }
+  .label {
+    width: 200px;
+    display: inline-block;
+  }
+  
+  .font-yellow {
+    color: yellow;
+  }
+
+
+  input::focus {
+    border: 1px solid red;
+  }
